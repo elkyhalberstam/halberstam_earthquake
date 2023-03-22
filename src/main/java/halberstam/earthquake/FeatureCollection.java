@@ -1,2 +1,5 @@
-package halberstam.earthquake;public class Feature {
+package halberstam.earthquake;
+
+public class FeatureCollection {
+    Feature[] features;
 }

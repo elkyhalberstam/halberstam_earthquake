@@ -1,2 +1,5 @@
-package halberstam.earthquake;public class Geometry {
+package halberstam.earthquake;
+
+public class Geometry {
+    double[] coordinates;
 }

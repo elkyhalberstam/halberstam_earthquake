@@ -1,6 +1,6 @@
 package halberstam.earthquake;
 
-public class Propertie {
+public class Properties {
     double mag;
     String place;
     long time;
